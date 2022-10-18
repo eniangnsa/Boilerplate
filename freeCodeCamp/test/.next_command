@@ -251,3 +251,18 @@ history -a
 cp --help
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cp -r website-boilerplate tom-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm -r tom-website/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cp -r website-boilerplate toms-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
