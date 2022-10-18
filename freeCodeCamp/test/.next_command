@@ -136,3 +136,12 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir client/assets/icons/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir client/assets/icons/fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
