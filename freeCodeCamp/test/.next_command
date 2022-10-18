@@ -37,3 +37,54 @@ history -a
 find -name footer.jpeg
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv footer.jpeg client/assets/images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv footer.jpeg ./website/client/assests/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv client/assests/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv footer.jpeg client/assests/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv images/footer.jpeg client/assets/images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
