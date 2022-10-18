@@ -1,0 +1,18 @@
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find images assests/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find images client/assets/images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
