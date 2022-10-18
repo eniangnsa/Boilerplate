@@ -28,3 +28,9 @@ history -a
 mv header.png client/assets/images/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -name header
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
